@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Thank you for visting my profile. Scroll down for more.
+## Thank you for visting my profile. Scroll down for more.
 <!--
 **SumeetSingho123/SumeetSingho123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
