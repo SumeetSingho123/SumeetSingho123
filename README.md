@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Technologies currently working with :
+🌱Technologies currently working with :
 Frontend : HTML5 , CSS3 , Javascript
 Backend  : Python , C++ , Java
