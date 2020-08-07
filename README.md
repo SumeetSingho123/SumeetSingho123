@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Technologies currently working with :
+Frontend : HTML5 , CSS3 , Javascript
+Backend  : Python , C++ , Java
