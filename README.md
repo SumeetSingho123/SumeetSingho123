@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 🌱Technologies currently working with :🌱
 Frontend : HTML5 , CSS3 , Javascript
 Backend  : Python , C++ , Java
+
+$ npm i --save greeting
