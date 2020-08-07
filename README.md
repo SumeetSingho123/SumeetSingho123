@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🌱Technologies currently working with :🌱
-ulFrontend : HTML5 , CSS3 , Javascript
+Frontend : HTML5 , CSS3 , Javascript
 Backend  : Python , C++ , Java
