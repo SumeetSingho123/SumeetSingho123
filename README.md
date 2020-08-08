@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 Frontend : HTML5 , CSS3 , Javascript
 Backend  : Python , C++ , Java
 
-$ npm i --save greeting
+ 
