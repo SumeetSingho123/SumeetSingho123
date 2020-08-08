@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   * C++ 
   * Java
   
-  [ ] Data Science
+  [  ] Data Science
 
  
