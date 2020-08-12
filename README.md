@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   * Java
   
   [ ] Data Science
-
+Nascent Stage but still getting through
  
