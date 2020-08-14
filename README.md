@@ -32,4 +32,4 @@ Currently working on following projects
  * AI voice assistant.
  * AI home assistant.
  * AI in manfacturing. 
- 
+If any changes please recommend with useful inputs.Thank you!
