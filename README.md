@@ -28,7 +28,8 @@ Here are some ideas to get you started:
   [ ] Data Science
 Nascent Stage but still getting through
 Currently working on following projects
- *
- *
- *
- *
+ * NPL
+ * AI voice assistant
+ * AI home assistant
+ * AI in manfacturing  
+ 
