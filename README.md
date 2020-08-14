@@ -27,4 +27,8 @@ Here are some ideas to get you started:
   
   [ ] Data Science
 Nascent Stage but still getting through
- 
+Currently working on following projects
+ *
+ *
+ *
+ *
