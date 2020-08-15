@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭Currently working on android app🔭
 
 🌱Technologies currently working with :🌱
 * Frontend 
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
   * Python 
   * C++ 
   * Java
-  
+👯Looking to collaberate with everyone  
   [ ] Data Science
 Nascent Stage but still getting through
 Currently working on following projects
@@ -33,3 +34,4 @@ Currently working on following projects
  * AI home assistant.
  * AI in manfacturing. 
 If any changes please recommend with useful inputs.Thank you!
+
