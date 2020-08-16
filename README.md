@@ -42,4 +42,5 @@ Currently working on following projects
  * AI home assistant.
  * AI in manfacturing. 
 If any changes required please recommend with useful inputs.Thank you!
-![Alt Text](https://tenor.com/view/game-dinosaur-sensor-jump-arduino-gif-17385701)
+
+![Alt Text](https://tenor.com/bk6YH.gif)
