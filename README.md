@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-*![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 🔭Currently working on android app🔭
 
@@ -42,4 +42,4 @@ Currently working on following projects
  * AI home assistant.
  * AI in manfacturing. 
 If any changes required please recommend with useful inputs.Thank you!
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
