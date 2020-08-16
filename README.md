@@ -42,7 +42,6 @@ Currently working on following projects
  * AI home assistant.
  * AI in manfacturing. 
 If any changes required please recommend with useful inputs.Thank you!
-![github stats](https://github-readme-stats.vercel.app/api?username=SumeetSingho123&show_icons=true&line_height=30) <p align="center">27182818284590452353602874713526624977572470937</p>
+ 
 
-
-![Alt Text](dino.gif)
+<p align =center> ![Alt Text](dino.gif)</p>
