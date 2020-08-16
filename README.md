@@ -42,4 +42,4 @@ Currently working on following projects
  * AI home assistant.
  * AI in manfacturing. 
 If any changes required please recommend with useful inputs.Thank you!
-![Alt Text](<div class="tenor-gif-embed" data-postid="17385701" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/game-dinosaur-sensor-jump-arduino-gif-17385701">Game Dinosaur GIF</a> from <a href="https://tenor.com/search/game-gifs">Game GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![Alt Text](href="https://tenor.com/view/game-dinosaur-sensor-jump-arduino-gif-17385701)
