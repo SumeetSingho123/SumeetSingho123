@@ -43,4 +43,4 @@ Currently working on following projects
  * AI in manfacturing. 
 If any changes required please recommend with useful inputs.Thank you!
 
-![Alt Text](ezgif.com-optimize.gif)
+![Alt Text](ezgif.com-resize.gif)
