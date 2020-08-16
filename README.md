@@ -43,5 +43,4 @@ Currently working on following projects
  * AI in manfacturing. 
 If any changes required please recommend with useful inputs.Thank you!
  
-
-<p align =center> ![Alt Text](dino.gif)</p>
+![Alt Text](dino.gif)
