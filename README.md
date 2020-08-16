@@ -43,4 +43,4 @@ Currently working on following projects
  * AI in manfacturing. 
 If any changes required please recommend with useful inputs.Thank you!
 
-![Alt Text](https://tenor.com/bk6YH.gif)
+![Alt Text](ezgif.com-optimize.gif)
