@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-
+ [![HitCount](http://hits.dwyl.com/SumeetSingho123/SumeetSingho123.svg)](http://hits.dwyl.com/SumeetSingho123/SumeetSingho123)
 
 
 🔭Currently working on android app🔭
