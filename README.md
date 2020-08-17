@@ -44,4 +44,4 @@ Currently working on following projects
  * AI in manfacturing. 
 If any changes required please recommend with useful inputs.Thank you!
  
-![Alt Text](dino.gif)
+ 
