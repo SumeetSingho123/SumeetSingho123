@@ -42,6 +42,11 @@ Currently working on following projects
  * AI voice assistant.
  * AI home assistant.
  * AI in manfacturing. 
-If any changes required please recommend with useful inputs.Thank you!
+If any changes required please recommend with useful inputs.
+
+
+
+
+Thank you!
  
  
