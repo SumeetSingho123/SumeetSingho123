@@ -37,23 +37,8 @@ Here are some ideas to get you started:
 
 **👯Looking to collaberate with everyone  
   
-
-
-
-
-
-    
- 
- 
- 
- 
-    
-    
-    
-    
-    
-
-
+  
+     
 Thank you!
 
  
