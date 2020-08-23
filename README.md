@@ -33,17 +33,10 @@ Here are some ideas to get you started:
   * Python 
   * C++ 
   * Java
-👯Looking to collaberate with everyone  
-  [ ] Data Science
-Nascent Stage but still getting through
-Currently working on following projects
- * NPL
- * AI voice assistant.
- * AI home assistant.
- * AI in manfacturing. 
-If any changes required please recommend with useful inputs.
 
 
+**👯Looking to collaberate with everyone  
+  
 
 
 
