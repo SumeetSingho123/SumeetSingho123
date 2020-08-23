@@ -1,6 +1,5 @@
 ### Hi there 👋⚡
-Welcome to my github profile.
-#### Mechanical Engineer with a passion of coding.
+Welcome to my github profile.I am a mechanical engineering graduate currently transitioning to Software Engineering field through self learning and coding bootcamps. I have inclination towards machine learning and data science.Currently developing my skills in both front and back end.
 <!--
 **SumeetSingho123/SumeetSingho123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
