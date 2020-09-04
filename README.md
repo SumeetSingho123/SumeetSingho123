@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 🔭Currently working on android app🔭
 
 
-
 🌱Technologies currently working with :🌱
 * Frontend 
   * HTML5 
