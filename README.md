@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
  [![HitCount](http://hits.dwyl.com/SumeetSingho123/SumeetSingho123.svg)](http://hits.dwyl.com/SumeetSingho123/SumeetSingho123)
 
 
