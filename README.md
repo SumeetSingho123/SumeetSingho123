@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   * Java
 
 
-***👯Looking to collaberate with everyone. 
+**👯Looking to collaberate with everyone. 
   
   
      
