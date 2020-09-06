@@ -1,5 +1,5 @@
-### Hi there 👋⚡
-Welcome to my github profile.I am a mechanical engineering graduate currently transitioning to Software Engineering field through self learning and coding bootcamps. I have inclination towards machine learning and data science.Currently developing my skills in both front and back end.
+### 👋 Hi there 👋
+  
 <!--
 **SumeetSingho123/SumeetSingho123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,28 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+ 
+ 
  [![HitCount](http://hits.dwyl.com/SumeetSingho123/SumeetSingho123.svg)](http://hits.dwyl.com/SumeetSingho123/SumeetSingho123)
 
 
-🔭Currently working on android app🔭
 
-
-🌱Technologies currently working with :🌱
-* Frontend 
-  * HTML5 
-  * CSS3 
-  * Javascript
-* Backend
-  * Python 
-  * C++ 
-  * Java
-
-
-**👯Looking to collaberate with everyone. 
-  
-  
-     
-Thank you!!
 
  
  
