@@ -22,6 +22,4 @@ Here are some ideas to get you started:
  
  [![HitCount](http://hits.dwyl.com/SumeetSingho123/SumeetSingho123.svg)](http://hits.dwyl.com/SumeetSingho123/SumeetSingho123)
 
-https://media.giphy.com/media/26tnpfXkdmUH9gV5S/giphy.gif
- 
- 
+
