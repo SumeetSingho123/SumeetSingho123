@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  Mail Id : - sumeetsngh104@gmail.com
- Website :   soon , :D
+ Website :   soon
  
 
 
