@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on everyone on github. 
 - 🤔 I’m looking for help with MERN stack.
 - 💬 Ask me about anything.
-- 📫 How to reach me: sumeetsngh104@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/sumeet-singh104/
 - 😄 Pronouns: He/ Him.
 
 
